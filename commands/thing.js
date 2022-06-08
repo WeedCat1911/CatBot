@@ -3,7 +3,7 @@ const { SlashCommandBuilder } = require('@discordjs/builders');
 const Yiff = require('yiff');
 const { MessageEmbed } = require('discord.js');
 const yiff = new Yiff();
-// no options are required, see below for the options
+// no options are required, see below for the optionsj
 // const e621 = new E621();
 // const epost = new MessageEmbed()
 //   .setThumbnail(e621.posts.search)
